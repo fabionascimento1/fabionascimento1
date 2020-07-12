@@ -16,7 +16,7 @@
 <p>I´m a front-end developer</p>
 <ul>
 <li><g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji> In love ecosystem Javascript</li>
-<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Currently learning and improving skills ReactJs, Tests, Storybook and NodeJs </li>
+<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Currently learning and improving skills ReactJs, Next.js, Tests, Storybook, Vue, Angular and NodeJs </li>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently available for new challenges</li>
 </ul>
 </article>
