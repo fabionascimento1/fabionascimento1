@@ -24,6 +24,7 @@
               <div>Projects</div>
               <ul>
                         <li><a target="_blank" href="https://ecommece-nextjs-app.vercel.app/">Ecommerce React Next.js APP</a></li>
+                          <li><a target="_blank" href="https://github.com/fabionascimento1/reactnative-mobile-delivery-app">Mobile Delivery App(React Native Expo)</a></li>
                         <li><a target="_blank" href="https://fabionascimento.dev.br/">My blog (Next.js)</a></li>
                         <li><a target="_blank" href="http://fabionascimento.netlify.com/">My site Wordpress</a></li>
                         <li><a target="_blank" href="https://www.behance.net/fabiodonascimento">Behance UI (old)</a></li>
