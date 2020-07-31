@@ -20,5 +20,11 @@
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently available for new challenges</li>
 </ul>
 </article>
+              <br />
+              <div>Projects</div>
+              <ul>
+                          <li><a target="_blank" href="https://ecommece-nextjs-app.vercel.app/">Ecommerce React Next.js APP</a></li>
+<li><a target="_blank" href="https://fabionascimento.dev.br/">My blog</a></li>
+</ul>
   </div>
 </div>
