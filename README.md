@@ -28,7 +28,7 @@
                         <li><a target="_blank" href="http://fabionascimento.netlify.com/">Meu site em Wordpress</a></li>
                         <li><a target="_blank" href="https://www.behance.net/fabiodonascimento">Behance UI (old)</a></li>
 </ul>
-              <div><h4>Minha breve históriia </h4></div>
+              <div><h4>Minha breve história </h4></div>
               <p> Inicie minha carreira em 2007 como desenvolvedor Fullstack com a linguagem PHP, depois fui trabalhar com desenvolvimento front end em uma agência, aonde, desenhava e estruturava o layout no CMS.</p>
              <p>De 2013 até 2017 passei a trabalhar como Freelancer no desenvolvimento de sites. Onde fazia de tudo: prospecção, vendas e até Marketing Digital.</p>
               <p>2017 mudei completamente de carreira. Virei jogador de Poker. </p>
