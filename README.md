@@ -19,8 +19,7 @@
 <li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Atualmente aprendendo e melhorando habilidades React, Next.js e NodeJs </li>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Atualmente disponível para novos desafios</li>
 </ul>
-</article>
-              <br />
+              </article>
               <div><h4>Projetos</h4></div>
               <ul>
                         <li><a target="_blank" href="https://ecommece-nextjs-app.vercel.app/">E-commerce React Next.js APP</a></li>
