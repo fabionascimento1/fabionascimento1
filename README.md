@@ -33,6 +33,6 @@
              <p>De 2013 até 2017 passei a trabalhar como Freelancer no desenvolvimento de sites. Onde fazia de tudo: prospecção, vendas e até Marketing Digital.</p>
               <p>2017 mudei completamente de carreira. Virei jogador de Poker. </p>
               <p>Atualmente estou me atualizando para voltar para área de desenvolvimento front-end. Sempre trabalhei focado em desenvolver sites para agências com CSS e JS. Se olhar os meus projetos no Github verás que, desenvolvi alguns projetos com React, Next e Redux, mas não tenho experiência profissional com essas tecnologias.</p>
-              <p>Entre em contato comigo se achar que me pareço um excelente candidato para uma oportunidade. Obrigado.</p>
+              <p>Entre em contato comigo se achar que me pareço um bom candidato para uma oportunidade. Obrigado.</p>
   </div>
 </div>
