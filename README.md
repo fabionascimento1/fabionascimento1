@@ -16,7 +16,7 @@
 <p>Sou desenvolvedor front-end</p>
 <ul>
 <li><g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji>Gosto do ecossistena Javascript</li>
-<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Atualmente aprendendo e melhorando habilidades React, Next.js e NodeJs </li>
+<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Atualmente aprendendo e melhorando minhas habilidades em React, Next.js e NodeJs </li>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Atualmente disponível para novos desafios</li>
 </ul>
               </article>
