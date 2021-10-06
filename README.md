@@ -13,12 +13,8 @@
 <a href="https://www.linkedin.com/in/fabio-nascimento-95b38b194/" rel="nofollow"><img src="https://camo.githubusercontent.com/9931acccaff25c8d009db32f4875381e4c07a07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6564756172646f2d72656963686572742f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/fabio-nascimento-95b38b194/" style="max-width:100%;"></a>
 <a href="mailto:agsuperpoder@gmail.com"><img src="https://camo.githubusercontent.com/ec115dcf278122521345a302932daaadddcd7746/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a65647264657369676e657240676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:agsuperpoder@gmail.com" style="max-width:100%;"></a></p>
 <h3><a id="user-content-hello--welcome-to-my-github-profile" class="anchor" aria-hidden="true" href="#hello--welcome-to-my-github-profile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Bem-vindo ao meu perfil no Github</h3>
-<p>Sou UX e UI Design com base forte em front-end</p>
-<ul>
-<li><g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji>UX e UI são as minhas paixões. Aqui no <a href="https://medium.com/@uxfabionascimento" target="_blank">Medium</a> tem o meu portfólio sobre elas</li>
-<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Atualmente aprendendo e melhorando minhas habilidades em React e Next.js </li>
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Atualmente disponível para novos desafios</li>
-</ul>
+<p>Sou UX e UI Design com base em front-end</p>
+
               </article>
               <div><h4>Alguns projetos de front-end</h4></div>
               <ul>
@@ -28,11 +24,6 @@
                         <li><a target="_blank" href="http://fabionascimento.netlify.com/">Meu site em Wordpress</a></li>
                         <li><a target="_blank" href="https://www.behance.net/fabiodonascimento">Behance UI (old)</a></li>
 </ul>
-              <div><h4>Minha breve história </h4></div>
-              <p> Inicie minha carreira em 2007 como desenvolvedor Fullstack com a linguagem PHP, depois fui trabalhar com desenvolvimento front end em uma agência, aonde, desenhava e estruturava o layout no CMS.</p>
-             <p>De 2013 até 2017 passei a trabalhar como Freelancer no desenvolvimento de sites. Onde fazia de tudo: prospecção, vendas e até Marketing Digital.</p>
-              <p>2017 mudei completamente de carreira. Virei jogador de Poker. </p>
-              <p>Atualmente estou me atualizando para voltar para área de desenvolvimento front-end. Sempre trabalhei focado em desenvolver sites para agências com CSS e JS. Se olhar os meus projetos no Github verás que, desenvolvi alguns projetos com React, Next e Redux, mas não tenho experiência profissional com essas tecnologias.</p>
-              <p>Entre em contato comigo se achar que me pareço um bom candidato para uma oportunidade. Obrigado.</p>
+              
   </div>
 </div>
