@@ -9,5 +9,6 @@
 <li><a target="_blank" href="https://github.com/fabionascimento1/reactnative-mobile-delivery-app">Mobile Delivery App(React Native Expo)</a></li>
 <li><a target="_blank" href="https://fabionascimento.dev.br/">Meu blog (Next.js)</a></li>
 <li><a target="_blank" href="http://fabionascimento.netlify.com/">Meu site em Wordpress</a></li>
-<li><a target="_blank" href="https://www.behance.net/fabiodonascimento">Behance UI (old)</a></li>
+<li><a target="_blank" href=" https://ui-portfolio-fabionascimento.netlify.app/blizzard/">Re-design Figma UI Blizzard.com</a></li>
+<li><a target="_blank" href="https://www.behance.net/fabiodonascimento">Behance UI (old)</a></li> 
 </ul>
