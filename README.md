@@ -1,5 +1,5 @@
 <h3>👋 Bem-vindo ao meu perfil no Github</h3>
-<p>Sou UX e UI Design com base em front-end</p>
+<p>Sou Front-End React com conhecimentos em UI</p>
 
            
              
