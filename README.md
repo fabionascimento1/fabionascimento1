@@ -1,7 +1,6 @@
-<h3>👋 Bem-vindo ao meu perfil no Github</h3>
-<p>Sou Front-End React com conhecimentos em UI</p>
+<h3>👋 Bem-vindo ao meu perfil, meu nome é Fábio Nascimento</h3>
+<p>Sou Front-End ReactJs com conhecimentos em UI. Haaa e com conhecimento em NodeJs na criação de Apis.</p>
 
-           
              
 <div><h4>Alguns projetos de front-end</h4></div>
 <ul>
