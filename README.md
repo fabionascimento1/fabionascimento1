@@ -4,6 +4,8 @@
              
 <div><h4>Alguns projetos de front-end</h4></div>
 <ul>
+  <li><a target="_blank" href="https://ecommerce-nextjs-react.vercel.app">Ecommerce NextJS</a></li>
+  <li><a target="_blank" href="https://github.com/fabionascimento1/nextjs-ecommerce-update">Repositório Ecommerce NextJS</a></li>
            <li><a target="_blank" href="https://nextjs-appjogafacil.vercel.app">Front NextJS - App Joga Fácil</a></li>
             <li><a target="_blank" href="https://www.figma.com/proto/Mnas7DcPBMaoaN1VjcnKdz/AppJogaFacil?page-id=0%3A1&node-id=46%3A2&viewport=241%2C48%2C0.61&scaling=min-zoom&starting-point-node-id=46%3A2">UI Figma - App Joga Fácil</a></li>
            <li><a target="_blank" href="https://github.com/fabionascimento1/reactnative-mobile-delivery-app">Mobile Delivery App(React Native Expo)</a></li>
