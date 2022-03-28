@@ -4,7 +4,7 @@
              
 <div><h4>Alguns projetos de front-end</h4></div>
 <ul>
-  <li><a target="_blank" href="https://nextjs-ecommerce-demons.vercel.app">Ecommerce NextJS</a></li>
+  <li><a target="_blank" href="https://nextjs-ecommerce-demons.vercel.app">Ecommerce NextJS Demo</a></li>
   <li><a target="_blank" href="https://storybook-ecommerce-demo.vercel.app/?path=&globals=measureEnabled:false">Storybook Ecommerce Exemple</a></li>
   <li><a target="_blank" href="https://github.com/fabionascimento1/nextjs-ecommerce-demo">Repositório Ecommerce NextJS</a></li>
   <li><a target="_blank" href="https://nextjs-appjogafacil.vercel.app">Front NextJS - App Joga Fácil</a></li>
