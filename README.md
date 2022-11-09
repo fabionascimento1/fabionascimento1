@@ -1,5 +1,5 @@
 <h3>👋 Bem-vindo ao meu perfil, meu nome é Fábio Nascimento</h3>
-<p>Sou Front-End ReactJs com conhecimentos em UI, e com pequena base de conhecimentos em NodeJs no desenvolvimento de Apis.</p>
+<p>Sou Front-End ReactJs Jr com conhecimentos em UI na empresa SmartBR.</p>
 
              
 <div><h4>Alguns projetos de front-end</h4></div>
